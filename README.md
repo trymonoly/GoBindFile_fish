@@ -13,3 +13,4 @@
 binding.exe <evil_program> <bind_file>
 示例：binding.exe  calc.exe 'WP(1).pdf'
 ```
+![image](https://github.com/trymonoly/SunAndTo/blob/main/ToDesk.png)
