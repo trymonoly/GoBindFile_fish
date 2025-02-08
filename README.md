@@ -9,3 +9,7 @@
 3.隐藏执行恶意文件后释放诱饵文件<br>
 
 ## 使用介绍：
+```
+binding.exe <evil_program> <bind_file>
+示例：binding.exe  calc.exe 'WP(1).pdf'
+```
