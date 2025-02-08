@@ -13,4 +13,12 @@
 binding.exe <evil_program> <bind_file>
 示例：binding.exe  calc.exe 'WP(1).pdf'
 ```
-![image](https://github.com/trymonoly/SunAndTo/blob/main/ToDesk.png)
+
+## 效果：
+<br>
+
+![image](https://github.com/trymonoly/GoBindFile_fish/blob/main/Snipaste_2025-02-08_22-25-32.png)
+<br>
+
+![image](https://github.com/trymonoly/GoBindFile_fish/blob/main/Snipaste_2025-02-08_22-26-07.png)
+<br>
