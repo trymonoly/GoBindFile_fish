@@ -24,7 +24,7 @@ binding.exe <evil_program> <bind_file>
 <br>
 
 ## 后期规划
-添加一键msi安装程序捆绑，加RLO字符
+添加一键msi安装程序捆绑，加RLO字符，嵌入AI 帮助安全人员构建话术
 <br>
 
 # 请勿将此工具用在违法道路，如有违法犯罪均与作者无关
