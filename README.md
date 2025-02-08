@@ -22,3 +22,6 @@ binding.exe <evil_program> <bind_file>
 
 ![image](https://github.com/trymonoly/GoBindFile_fish/blob/main/Snipaste_2025-02-08_22-26-07.png)
 <br>
+
+## 后期规划
+添加一键msi安装程序捆绑，加RLO字符
